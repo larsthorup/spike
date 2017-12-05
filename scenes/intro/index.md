@@ -1,6 +1,6 @@
 # Config
- - Title: Case intro
- - Next: brad
+ - title: Case intro
+ - next: brad
 
 # Description
 You are a country manager in ISS Voldavia, working with a senior leadership team of 5.
