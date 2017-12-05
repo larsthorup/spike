@@ -1,6 +1,6 @@
 # Config
- - Title: Leadership Challenges
- - Initial Scene: intro
+ - title: Leadership Challenges
+ - start: intro
 
 # Variables
  - time: 100
