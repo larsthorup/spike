@@ -1,5 +1,5 @@
 # Config
- - Title: Feedback on choice A (Brad)
+ - title: Feedback on choice A (Brad)
 
 # Description
 *Your response:*
