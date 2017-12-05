@@ -6,5 +6,6 @@
  - time: 100
  - engagement: 100
  - performance: 100
- - total: 0
 
+# Functions
+- total: round(((engagement * performance) / 100) - (100 - time))
